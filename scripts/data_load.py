@@ -1,0 +1,1 @@
+df.to_parquet(target_path)
